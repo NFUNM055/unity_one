@@ -32,7 +32,9 @@ UnitySetup64-5.6.2f1→UnityStandardAssetsSetup-5.6.2f1→UnitySetup-Android-Sup
 
 ### 导入导出项目（安卓、pc）：
 
-![daoru.png](https://upload-images.jianshu.io/upload_images/9460880-e13a1de2ca448b15.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![daoru.jpg](https://upload-images.jianshu.io/upload_images/9460880-f8ea8592c8180b43.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![daoru2.jpg](https://upload-images.jianshu.io/upload_images/9460880-fa5b6495a9b79fb6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![daochu.jpg](https://upload-images.jianshu.io/upload_images/9460880-3b6aceab9890a463.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
