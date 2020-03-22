@@ -30,9 +30,15 @@ UnitySetup64-5.6.2f1→UnityStandardAssetsSetup-5.6.2f1→UnitySetup-Android-Sup
 
 ![ci.jpg](https://upload-images.jianshu.io/upload_images/9460880-089e8fb7f951d675.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 导入导出项目：
+### 导入导出项目（安卓、pc）：
 
+![daoru.png](https://upload-images.jianshu.io/upload_images/9460880-e13a1de2ca448b15.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+![daochu.jpg](https://upload-images.jianshu.io/upload_images/9460880-3b6aceab9890a463.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![az.jpg](https://upload-images.jianshu.io/upload_images/9460880-4f2f8c01b1fc2a99.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![pc.jpg](https://upload-images.jianshu.io/upload_images/9460880-bbb0492e114afefc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 录屏
 链接：https://pan.baidu.com/s/1isdfCqS1NEv36i1WDyH-Qg 
